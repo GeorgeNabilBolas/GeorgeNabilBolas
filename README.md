@@ -86,23 +86,6 @@ An educational project exploring the **core principles of Flutter**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeNabilBolas&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeNabilBolas&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GeorgeNabilBolas&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeorgeNabilBolas&theme=tokyo-night" />
-</p>
-
----
-
 ## 🏅 Achievements
 
 - 🥇 Built **5+ production-ready Flutter apps**
@@ -132,6 +115,7 @@ An educational project exploring the **core principles of Flutter**.
 ---
 
 > 💬 *“Code is like art — the cleaner and simpler it looks, the more powerful it becomes.”*
+
 
 
 
