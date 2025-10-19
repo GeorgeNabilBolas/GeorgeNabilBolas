@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm George Nabil!
 
-🚀 **Flutter Developer | Mobile App Engineer | UI/UX Enthusiast**
+🚀 **Flutter Developer | Mobile App Engineer**
 
 I’m a **passionate Flutter developer** who loves turning creative ideas into beautiful, high-performance mobile apps.  
 I focus on **clean architecture, responsive design, and performance optimization** to build scalable, real-world solutions.  
@@ -94,4 +94,5 @@ A **learning-based Flutter project** showcasing **navigation, state management, 
 ---
 
 > 💬 “Code is like art — the cleaner and simpler it looks, the more powerful it becomes.”
+
 
