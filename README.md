@@ -77,10 +77,16 @@ A **learning-based Flutter project** showcasing **navigation, state management, 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeNabilBolas&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeNabilBolas&layout=compact&theme=tokyonight" height="165">
+  <a href="https://github.com/GeorgeNabilBolas/px_league">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeNabilBolas&repo=px_league&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/GeorgeNabilBolas/bookhub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeNabilBolas&repo=bookhub&theme=tokyonight" />
+  </a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GeorgeNabilBolas&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 ---
 
 ## 🤝 Let’s Connect
@@ -94,5 +100,6 @@ A **learning-based Flutter project** showcasing **navigation, state management, 
 ---
 
 > 💬 “Code is like art — the cleaner and simpler it looks, the more powerful it becomes.”
+
 
 
