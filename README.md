@@ -39,7 +39,7 @@ Driven by creativity and precision, I aim to deliver **apps that users love and 
   | **Tools** | Git, GetIt, VS Code, Android Studio, Postman |
   | **Design** | Material Design, UI/UX Principles |
 
-<p align="center">
+<p align="start">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,html,css,figma" />
 </p>
 
@@ -103,14 +103,6 @@ An educational project exploring the **core principles of Flutter**.
 
 ---
 
-## 🐍 My Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/GeorgeNabilBolas/GeorgeNabilBolas/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🏅 Achievements
 
 - 🥇 Built **5+ production-ready Flutter apps**
@@ -140,5 +132,6 @@ An educational project exploring the **core principles of Flutter**.
 ---
 
 > 💬 *“Code is like art — the cleaner and simpler it looks, the more powerful it becomes.”*
+
 
 
