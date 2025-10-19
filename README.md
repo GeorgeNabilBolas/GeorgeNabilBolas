@@ -1,12 +1,12 @@
 <!-- Animated typing header (cool intro effect) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+George+Nabil!;🚀+Flutter+Developer+%7C+Mobile+App+Engineer;💙+Passionate+about+Clean+Code+and+UI%2FUX;Always+Building%2C+Learning%2C+and+Innovating!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+George+Nabil!;🚀+Flutter+Developer+%7C+Mobile+App+Engineer;💙+Passionate+about+Clean+Code;Always+Building%2C+Learning%2C+and+Innovating!">
 </p>
 
 ---
 
 # 👋 Hi there, I'm George Nabil!
-🚀 **Flutter Developer | Mobile App Engineer | Problem Solver**
+🚀 **Flutter Developer | Mobile App Engineer**
 
 I’m a **results-driven Flutter developer** who loves transforming ideas into **high-performance, visually stunning mobile apps**.  
 My code is guided by **Clean Architecture, responsive design, and performance optimization** — every project I build is crafted to scale and stand out.  
@@ -27,7 +27,7 @@ Driven by creativity and precision, I aim to deliver **apps that users love and 
 ---
 
 ## 🧰 Tech Stack
-
+<p align="center">
 | Area | Tools & Frameworks |
 |------|--------------------|
 | **Languages** | Dart, Java (basics), Kotlin (basics) |
@@ -38,6 +38,7 @@ Driven by creativity and precision, I aim to deliver **apps that users love and 
 | **Storage** | Hive, SharedPreferences |
 | **Tools** | Git, GetIt, VS Code, Android Studio, Postman |
 | **Design** | Material Design, UI/UX Principles |
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,html,css,figma" />
@@ -140,3 +141,4 @@ An educational project exploring the **core principles of Flutter**.
 ---
 
 > 💬 *“Code is like art — the cleaner and simpler it looks, the more powerful it becomes.”*
+
