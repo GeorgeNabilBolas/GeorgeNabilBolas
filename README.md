@@ -1,100 +1,122 @@
+<!-- Animated typing header (cool intro effect) -->
 <p align="center">
-  <img src="https://github.com/GeorgeNabilBolas/GeorgeNabilBolas/blob/main/profile_banner.png?raw=true" alt="George Nabil - Flutter Developer" width="800"/>
-</p>
-
-# 🚀 George Nabil - Flutter Developer Extraordinaire
-
-👋 **Welcome to my GitHub!** I'm George Nabil, a **Flutter Developer** and **Mobile App Engineer** based in Heliopolis, Cairo, Egypt. I specialize in crafting **high-performance, cross-platform mobile apps** using Flutter and Dart, transforming innovative ideas into sleek, scalable solutions. My passion lies in building apps that deliver seamless user experiences, leveraging **Clean Architecture**, **Bloc state management**, and tools like Firebase and REST APIs.
-
-With a focus on **performance optimization** and clean code, I create apps that make an impact—whether it's a real-time football app or a secure anti-theft system. Let's build something extraordinary together!
-
-![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?logo=flutter&style=flat-square) ![Dart](https://img.shields.io/badge/Dart-Master-0175C2?logo=dart&style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-Pro-FFCA28?logo=firebase&style=flat-square) ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&style=flat-square)
-
-## 🌟 About Me
-- **Mission**: To create intuitive, scalable mobile apps that solve real-world problems with exceptional user experiences.
-- **Expertise**: Cross-platform development with Flutter, state management (Bloc, Cubit, Provider), Clean Architecture, and API integration (Firebase, Dio, REST).
-- **Current Role**: Freelance Flutter Developer, building innovative apps for global clients.
-- **Education**: Bachelor of Engineering in Electrical Engineering, Aswan University (2019–2023, Grade: Good).
-- **Fun Fact**: I slashed an app's API response time by 35% – speed is my superpower! ⚡
-
-## 🛠️ Technical Arsenal
-| **Category**           | **Skills**                                                                 |
-|------------------------|---------------------------------------------------------------------------|
-| **Languages**          | Dart, Java (basics), Kotlin (basics)                                      |
-| **Frameworks**         | Flutter SDK                                                              |
-| **State Management**   | Bloc, Cubit, Provider                                                    |
-| **Architecture**       | Clean Architecture, MVVM, MVC                                            |
-| **Backend & APIs**     | Firebase (Auth, Firestore), RESTful APIs, Dio                            |
-| **Storage & Caching**  | Hive, SharedPreferences                                                  |
-| **Tools**              | Git, GetIt, VS Code, Android Studio, Postman                             |
-| **Other**              | UI/UX Design, Performance Optimization, SOLID Principles, Design Patterns |
-
-## 💼 Professional Experience
-### Freelance Flutter Developer — pxLeague (Remote)  
-*Jun 2024 – Present*  
-- Engineered **pxLeague**, a real-time football app with live matches, rankings, and user profiles using Flutter, Firebase, Hive, and Bloc.  
-- Boosted API performance by **35%** with Dio caching and optimized state management.  
-- Designed a modular, testable codebase with **Clean Architecture** and Cubit, ensuring scalability.  
-- Collaborated with designers and testers via Git-based CI workflows for seamless delivery.  
-
-### Freelance Developer — Hsoub Company (Remote)  
-*Jun 2022 – May 2024*  
-- Built custom Excel VBA automation tools, cutting reporting time by **40%** for clients.  
-- Delivered user-friendly digital solutions, aligning with client needs through clear communication.  
-
-## 📱 Featured Projects
-Explore my portfolio of innovative apps, each showcasing my expertise in Flutter and mobile development. Check out the repositories for code and details!
-
-### ⚽ **PX League** — Real-Time Football App  
-A dynamic football app delivering live match updates, rankings, and user profiles.  
-- **Tech Stack**: Flutter, Firebase, Hive, Bloc, Dio, Clean Architecture  
-- **Achievements**: Reduced network latency by **35%** with optimized caching; scalable design for future features.  
-- **Repo**: [github.com/GeorgeNabilBolas/px_league-main](https://github.com/GeorgeNabilBolas/px_league-main)  
-
-### 🔒 **Keep It** — Anti-Theft Security Alarm  
-A security app that detects device movement and triggers real-time alerts.  
-- **Tech Stack**: Flutter, Dart, Background Services, Permission Handling  
-- **Achievements**: Integrated reliable motion detection and instant notifications.  
-- **Repo**: [github.com/GeorgeNabilBolas/keep-it-app-main](https://github.com/GeorgeNabilBolas/keep-it-app-main)  
-
-### 📚 **BookHub** — Book Discovery Platform  
-A modern app for browsing books with search, details, and category features.  
-- **Tech Stack**: Flutter, REST APIs, Bloc, Caching  
-- **Achievements**: Improved responsiveness by **40%** through optimized API calls and state caching.  
-- **Repo**: [github.com/GeorgeNabilBolas/BookHub-main](https://github.com/GeorgeNabilBolas/BookHub-main)  
-
-### 🎮 **Tic-Tac-Toe** — Interactive Game App  
-A classic game with single and multi-player modes, featuring smooth animations and real-time updates.  
-- **Tech Stack**: Flutter, Dart, Animations, Sound Effects  
-- **Achievements**: Designed clean UI with dynamic state handling and score tracking.  
-- **Repo**: [github.com/GeorgeNabilBolas/TIC-TAC-TOE-master](https://github.com/GeorgeNabilBolas/TIC-TAC-TOE-master)  
-
-### 📱 **Flutter Fundamentals** — Educational App  
-A showcase of Flutter’s core capabilities, demonstrating advanced layouts and interactivity.  
-- **Tech Stack**: Flutter, Various Widgets & Features  
-- **Achievements**: Built a comprehensive learning tool for Flutter beginners and pros alike.  
-- **Repo**: [github.com/GeorgeNabilBolas/flutter_fundamentals-main](https://github.com/GeorgeNabilBolas/flutter_fundamentals-main)  
-
-## 📫 Connect with Me
-I’m always excited to collaborate on innovative projects or discuss the latest in Flutter and mobile dev. Reach out!  
-- **Email**: [george.nabil.bulis@gmail.com](mailto:george.nabil.bulis@gmail.com)  
-- **Phone**: +20 1203558990  
-- **LinkedIn**: [linkedin.com/in/georgenabilbolas](https://linkedin.com/in/georgenabilbolas)  
-- **GitHub**: [github.com/GeorgeNabilBolas](https://github.com/GeorgeNabilBolas)  
-
-<p align="center">
-  <a href="https://github.com/GeorgeNabilBolas">
-    <img src="https://github-readme-stats.vercel.app/api?username=GeorgeNabilBolas&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/GeorgeNabilBolas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeNabilBolas&layout=compact&theme=radical" alt="Top Languages"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+George+Nabil!;🚀+Flutter+Developer+%7C+Mobile+App+Engineer;💙+Passionate+about+Clean+Code;Always+Building%2C+Learning%2C+and+Innovating!">
 </p>
 
 ---
 
-⭐ **Love what I do?** Star one of my repos or drop me a message to collaborate! Let’s build the future of mobile apps together. 🚀
+# 👋 Hi there, I'm George Nabil!
+🚀 **Flutter Developer | Mobile App Engineer**
+
+I’m a **results-driven Flutter developer** who loves transforming ideas into **high-performance, visually stunning mobile apps**.  
+My code is guided by **Clean Architecture, responsive design, and performance optimization** — every project I build is crafted to scale and stand out.  
+Driven by creativity and precision, I aim to deliver **apps that users love and teams can trust**.
+
+---
+
+## 🧠 About Me
+
+- 🎓 **Electrical Engineer** turned **Full-Time Flutter Developer**
+- 💙 Passionate about **cross-platform development** with **Flutter & Dart**
+- 🧩 Experienced in **Bloc, Cubit, Provider**, and **MVVM architecture**
+- ☁️ Skilled in **Firebase**, **REST APIs**, and **backend integrations**
+- 🎨 Focused on **UI/UX design**, performance, and accessibility
+- 📚 Lifelong learner — always exploring **best practices** and **new technologies**
+- 💬 I believe great apps are built at the intersection of **creativity and logic**
+
+---
+
+## 🧰 Tech Stack
+
+  | Area | Tools & Frameworks |
+  |------|--------------------|
+  | **Languages** | Dart, Java (basics), Kotlin (basics) |
+  | **Framework** | Flutter SDK |
+  | **State Management** | Bloc, Cubit, Provider |
+  | **Architecture** | Clean Architecture, MVVM |
+  | **Backend & APIs** | Firebase (Auth, Firestore), REST APIs, Dio |
+  | **Storage** | Hive, SharedPreferences |
+  | **Tools** | Git, GetIt, VS Code, Android Studio, Postman |
+  | **Design** | Material Design, UI/UX Principles |
+
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,html,css,figma" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+### ⚽ [PX League](https://github.com/GeorgeNabilBolas/px_league)
+A **real-time football league app** built with **Flutter, Firebase, Hive, Dio, and Bloc**.  
+- 🔥 Displays live match results, player stats, and league standings  
+- 💾 **Offline caching** with Hive for fast performance  
+- ⚙️ **Clean Architecture + Cubit** for modular scalability  
+- 📊 **Reduced API latency by 35%** with optimized network handling  
+
+---
+
+### 🔒 [Keep It](https://github.com/GeorgeNabilBolas/keep_it)
+A **smart anti-theft app** that secures your phone using **sensors, background tasks, and alerts**.  
+- 🔐 Detects movement & triggers real-time alarms  
+- ⚙️ Uses **Bloc state management** for event handling  
+- ⚡ Integrated **background services** for 24/7 monitoring  
+
+---
+
+### 📚 [BookHub](https://github.com/GeorgeNabilBolas/bookhub)
+A **book discovery platform** demonstrating advanced Flutter architecture and clean design.  
+- 📖 Search, browse, and explore curated books  
+- 🧠 Built with **MVVM, Dio, GetIt, GoRouter**  
+- ⚡ **Improved API performance by 40%** through efficient caching  
+
+---
+
+### 🎮 [Tic-Tac-Toe](https://github.com/GeorgeNabilBolas/tic_tac_toe)
+A fun **logic-based game** that combines simplicity and animation.  
+- 🧩 Powered by **Provider** for reactive gameplay  
+- 🎨 Focused on **smooth UI transitions** and user engagement  
+
+---
+
+### 📱 [Flutter Fundamentals Project](https://github.com/GeorgeNabilBolas/flutter_fundamentals_project)
+An educational project exploring the **core principles of Flutter**.  
+- 💡 Demonstrates **navigation, state management, and MVVM patterns**  
+- 🧭 Perfect for newcomers and recruiters evaluating technical depth  
+
+---
+
+## 🏅 Achievements
+
+- 🥇 Built **5+ production-ready Flutter apps**
+- ⚡ Improved app **load time by up to 40%** across multiple projects
+- 🧩 Applied **Clean Architecture and SOLID** principles consistently
+- 💼 Active **freelancer and open-source contributor**
+
+---
+
+## 🎯 Fun Facts
+
+- ☕ I debug better with strong coffee  
+- 🎨 I love crafting elegant, intuitive UIs  
+- 🧠 I believe every bug hides a lesson  
+- 🎮 I recharge by gaming or exploring new design ideas  
+
+---
+
+## 📬 Reach Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with-Passion-red?style=for-the-badge" alt="Made with Passion"/>
+  <a href="mailto:george.nabil.bulis@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/georgenabilbolas/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/GeorgeNabilBolas"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+> 💬 *“Code is like art — the cleaner and simpler it looks, the more powerful it becomes.”*
+
+
+
+
+
