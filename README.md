@@ -27,18 +27,17 @@ Driven by creativity and precision, I aim to deliver **apps that users love and 
 ---
 
 ## 🧰 Tech Stack
-<p align="center">
-| Area | Tools & Frameworks |
-|------|--------------------|
-| **Languages** | Dart, Java (basics), Kotlin (basics) |
-| **Framework** | Flutter SDK |
-| **State Management** | Bloc, Cubit, Provider |
-| **Architecture** | Clean Architecture, MVVM |
-| **Backend & APIs** | Firebase (Auth, Firestore), REST APIs, Dio |
-| **Storage** | Hive, SharedPreferences |
-| **Tools** | Git, GetIt, VS Code, Android Studio, Postman |
-| **Design** | Material Design, UI/UX Principles |
-</p>
+
+  | Area | Tools & Frameworks |
+  |------|--------------------|
+  | **Languages** | Dart, Java (basics), Kotlin (basics) |
+  | **Framework** | Flutter SDK |
+  | **State Management** | Bloc, Cubit, Provider |
+  | **Architecture** | Clean Architecture, MVVM |
+  | **Backend & APIs** | Firebase (Auth, Firestore), REST APIs, Dio |
+  | **Storage** | Hive, SharedPreferences |
+  | **Tools** | Git, GetIt, VS Code, Android Studio, Postman |
+  | **Design** | Material Design, UI/UX Principles |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,html,css,figma" />
@@ -141,4 +140,5 @@ An educational project exploring the **core principles of Flutter**.
 ---
 
 > 💬 *“Code is like art — the cleaner and simpler it looks, the more powerful it becomes.”*
+
 
