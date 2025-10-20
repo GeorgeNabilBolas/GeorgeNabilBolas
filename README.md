@@ -40,7 +40,7 @@ Driven by creativity and precision, I aim to deliver **apps that users love and 
   | **Design** | Material Design, UI/UX Principles |
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,firebase,androidstudio,vscode,git,github,postman" />
 </p>
 
 ---
@@ -115,6 +115,7 @@ An educational project exploring the **core principles of Flutter**.
 ---
 
 > 💬 *“Code is like art — the cleaner and simpler it looks, the more powerful it becomes.”*
+
 
 
 
